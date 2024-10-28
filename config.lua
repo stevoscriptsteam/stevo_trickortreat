@@ -15,7 +15,7 @@ return {
         'bluecandy'
     },
 
-    trickChance = 60, -- Chance out of 100 that player will be tricked (20 = 20%)
+    trickChance = 30, -- Chance out of 100 that player will be tricked (30 = 30%)
     trickPeds = {
         `u_m_y_zombie_01`,
         `u_m_m_prolsec_01`
