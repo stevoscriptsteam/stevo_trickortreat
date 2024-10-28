@@ -1,0 +1,29 @@
+{
+    "notify": {
+        "stoppedKnocking": "Je bent gestopt met kloppen!",
+        "receivedTreat": "Je hebt een traktatie gekregen!",
+        "gotTricked": "Je bent gefopt!",
+        "soldCandy": "Je hebt %sx snoep verkocht voor $%s",
+        "noCandy": "Je hebt geen snoep!",
+        "knockedRecently": "Je hebt hier te recent geklopt!"
+    },
+    
+    "blips": {
+        "house": "Trick or Treat Huis",
+        "candyClown": "[$$$] Snoepclown"
+    },
+    
+    "textui": {
+        "trickortreat": "**[E]** Klop op de deur!",
+        "sellCandy": "**[E]** Verkoop Snoep"
+    },
+   
+    "progress": {
+        "knocking": "Kloppen op de deur..."
+    },
+    
+    "target": {
+        "trickortreat": "Klop op de deur",
+        "sellcandy": "Verkoop Snoep"
+    }
+}

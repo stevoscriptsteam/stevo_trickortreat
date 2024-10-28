@@ -1,0 +1,32 @@
+{
+    "notify" : {
+        "stoppedKnocking" : "You stopped knocking!",
+        "receivedTreat" : "You got a treat!",
+        "gotTricked" : "You got tricked!",
+        "soldCandy" : "You sold %sx Candy for $%s",
+        "noCandy" : "You do not have any candy!",
+        "knockedRecently" : "You knocked here too recently!"
+    },
+
+    "blips" : {
+        "house" : "Trick or Treat House",
+        "candyClown" : "[$$$] Candy Clown"
+    },
+
+    "textui" : {
+        "trickortreat" : "**[E]** Knock on Door!",
+        "sellCandy" : "**[E]** Sell Candy"
+    },
+
+
+    "progress" : {
+        "knocking" : "Knocking On Door..."
+    },
+
+    "target" : {
+        "trickortreat" : "Knock on Door",
+        "sellcandy" : "Sell Candy"
+    }
+
+    
+}

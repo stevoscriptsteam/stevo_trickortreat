@@ -1,0 +1,30 @@
+{
+    "notify": {
+        "stoppedKnocking": "Sa lõpetasid koputamise!",
+        "receivedTreat": "Sa said kommi!",
+        "gotTricked": "Sind peteti!",
+        "soldCandy": "Sa müüsid %sx kommi hinnaga $%s",
+        "noCandy": "Sul pole kommi!",
+        "knockedRecently": "Sa koputasid siin liiga hiljuti!"
+    },
+
+    "blips": {
+        "house": "Kommi või pommi Maja",
+        "candyClown": "[$$$] Kommikloun"
+    },
+
+    "textui": {
+        "trickortreat": "**[E]** Koputa uksele!",
+        "sellCandy": "**[E]** Müü komme"
+    },
+
+    "progress": {
+        "knocking": "Koputan uksele..."
+    },
+
+    "target": {
+        "trickortreat": "Koputa uksele",
+        "sellcandy": "Müü komme"
+    }
+    
+}

@@ -1,0 +1,29 @@
+{
+    "notify": {
+        "stoppedKnocking": "Vous avez arrêté de frapper!",
+        "receivedTreat": "Vous avez reçu une friandise!",
+        "gotTricked": "Vous avez été piégé!",
+        "soldCandy": "Vous avez vendu %sx bonbon(s) pour $%s",
+        "noCandy": "Vous n'avez pas de bonbons!",
+        "knockedRecently": "Vous avez frappé ici trop récemment!"
+    },
+
+    "blips": {
+        "house": "Maison de Bonbons ou Farce",
+        "candyClown": "[$$$] Clown à Bonbons"
+    },
+
+    "textui": {
+        "trickortreat": "**[E]** Frappez à la porte!",
+        "sellCandy": "**[E]** Vendre des Bonbons"
+    },
+
+    "progress": {
+        "knocking": "Frappe à la porte..."
+    },
+    
+    "target": {
+        "trickortreat": "Frappez à la porte",
+        "sellcandy": "Vendre des Bonbons"
+    }
+}
