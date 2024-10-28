@@ -1,14 +1,23 @@
-# stevo_jobgarages
-## Job Garages! 🚗🏢
-Job-based garages and vehicle customisation.
+# stevo_trickortreat
+## Trick or Treating! :ghost:
+Trick or Treating with some fun little tricks...
 
-Easy to configure, allowing you to completely customise where your garage menu is placed, where your customisation points can be accessed and where the vehicle spawns on selection. You can also break the garage up into separate categories, locking vehicles behind ranks and roles too. Simple design allows for ease of access by all players. 
+Bring Halloween to life on your FiveM server with our **Trick or Treating** resource! It allows players to trick-or-treat at various houses, with a twist: sometimes they get treats, and other times, they get a spooky trick! Players can sell their gathered candy to a mysterious Candy Clown who lurks around Los Santos...
+
+**Features:**
+
+**Knock on Doors:** Players can knock on specific houses to receive treats or face a surprise attack by a spooky ped.
+    
+**Random Tricks:** Some interactions spawn a ped with a weapon that will chase and attack, adding an extra thrill.
+    
+**Candy Selling:** Players can trade collected candy with the Candy Clown for in-game money. The Clown and their van create an eerie setting that enhances the Halloween vibe.
+
 
 ﻿
 - :bank: ﻿﻿﻿ Supported frameworks: ESX, QBCore & Qbox
-- :speaking_head:  Locales: English, Español & Dutch
+- :speaking_head:  Locales: English, Español, Dutch, Estonian, French
 
-Follow our installation guide: [Click Here](https://docs.stevoscripts.com/free-scripts/stevo_jobgarages)
+Follow our installation guide: [Click Here](https://docs.stevoscripts.com/free-scripts/stevo_trickortreating)
 ﻿
 > **Dependencies:**
 > <br>
