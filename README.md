@@ -7,15 +7,10 @@ Bring Halloween to life on your FiveM server with our **Trick or Treating** reso
 **Features:**
 
 **Knock on Doors:** Players can knock on specific houses to receive treats or face a surprise attack by a spooky ped.
-    
 **Random Tricks:** Some interactions spawn a ped with a weapon that will chase and attack, adding an extra thrill.
-    
 **Candy Selling:** Players can trade collected candy with the Candy Clown for in-game money. The Clown and their van create an eerie setting that enhances the Halloween vibe.
-
-
-﻿
-- :bank: ﻿﻿﻿ Supported frameworks: ESX, QBCore & Qbox
-- :speaking_head:  Locales: English, Español, Dutch, Estonian, French
+**Supported frameworks:** ESX, QBCore & Qbox
+**Locales:** English, Español, Dutch, Estonian, French
 
 Follow our installation guide: [Click Here](https://docs.stevoscripts.com/free-scripts/stevo_trickortreating)
 ﻿
