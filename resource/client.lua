@@ -126,14 +126,14 @@ local function initHouses()
                         action = function() 
                             trickOrTreat(locationId)   
                         end,
-                        icon =  'candy-cane',
+                        icon =  'fas fa-hand-fist',
                         label = locale("target.trickortreat"),
                     }
                 },
                 distance = config.interactDistance,
                 rotation = 45
             }
-            stevo_lib.target.AddBoxZone('stevotrickortreat'..locationId, vec3(3, 3, 3), options)  
+            stevo_lib.target.AddBoxZone('stevotrickortreat'..locationId, location, vec3(3, 3, 3), options)  
         end 
 
         local blip = config.houseBlips
@@ -217,14 +217,14 @@ local function initHouses()
                                 stevo_lib.Notify(locale('notify.noCandy'), 'error', 3000)
                             end
                         end,
-                        icon =  'money-bill',
+                        icon =  'fas fa-handshake',
                         label = locale("target.sellcandy"),
                     }
                 },
                 distance = config.interactDistance,
                 rotation = 45
             }
-            stevo_lib.target.AddBoxZone('stevotrickortreatcandybuyer', vec3(3, 3, 3), options) 
+            stevo_lib.target.AddBoxZone('stevotrickortreatcandybuyer', pedCoords.xyz, vec3(3, 3, 3),  options) 
         end
 
         local blip = config.candyBuyer.blip
@@ -254,5 +254,4 @@ AddEventHandler('onResourceStart', function(resource)
 
     initHouses()
 end)
-
 
