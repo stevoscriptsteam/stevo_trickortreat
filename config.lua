@@ -1,7 +1,7 @@
 return {
     dropCheaters = true,
-    interact = 'textui', -- Can choose target or textui
-    interactDistance = 3,
+    interact = 'target', -- Can choose target or textui
+    interactDistance = 3.0,
     knockTime = 2, -- Seconds player will knock for
     knockCooldown = 5, -- Cooldown for knocking on the same door (minutes)
     progressCircle = false, -- If lib progressCircle should be used instead of progressBar
@@ -18,7 +18,8 @@ return {
     trickChance = 30, -- Chance out of 100 that player will be tricked (30 = 30%)
     trickPeds = {
         `u_m_y_zombie_01`,
-        `u_m_m_prolsec_01`
+        `u_m_m_prolsec_01`,
+        `s_m_y_clown_01`
     },
     trickWeapons = {
         `weapon_bat`,
